@@ -3,4 +3,28 @@
     <string name="toolbarTitle">Погода</string>
     <string name="exit">Выход</string>
     <string name="apiKey">25940cb6eeeec1546cfb455daf606f88</string>
+
+    <string name="min_temp">мин %1$d°C</string>
+    <string name="max_temp">макс %1$d°C</string>
+    <string name="wind_direction">Ветер: %1$d°</string>
+    <string name="wind_speed">%1$d м/сек</string>
+    <string name="pressure">Давление %1$d мм рт. ст.</string>
+    <string name="humidity">Влажность %1$d%%</string>
+    <string name="error_city_not_found">Город не найден</string>
+    <string name="error_http">Ошибка HTTP: %1$s</string>
+    <string name="error_app">Ошибка приложения: %1$s</string>
+    <string name="error_empty_city">Введите название города</string>
+    <string name="data_received">Данные получены для города %1$s</string>
+    <string name="cityET_hint">Город</string>
+    <string name="getWeatherBTN_text">Получить данные</string>
+    <string name="minTempTV_text">Мин температура</string>
+    <string name="maxTempTV_text">Макс температура</string>
+    <string name="windDirectionTV_text">Направление ветра</string>
+    <string name="windSpeedTV_text">Скорость ветра</string>
+    <string name="pressureTV_text">Атмосферное давление</string>
+    <string name="humidityTV_text">Влажность</string>
+    <string name="titleTV_hint">Заголовок</string>
+    <string name="descriptionTV_hint">Описание</string>
+    <string name="startBTN_text">Перейти к погоде</string>
+
 </resources>
