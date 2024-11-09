@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="defMargin">8dp</dimen>
+    <dimen name="bigMargin">100dp</dimen>
+    <dimen name="textSize">20sp</dimen>
+    <dimen name="minWidthET">200sp</dimen>
+    <dimen name="minHeightET">48sp</dimen>
+    <dimen name="defPadding">8dp</dimen>
+    <dimen name="smallTextSize">14sp</dimen>
+</resources>
